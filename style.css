@@ -1,0 +1,40 @@
+body {
+    background-image: url('creative-geometric-design-space_53876-89787.avif');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-attachment: fixed; 
+    color: #ffffff; 
+    font-family: Arial, sans-serif; 
+}
+h1 {
+    color: #f8f9fa; 
+    text-align: center;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+
+p {
+    color: #e0e0e0; 
+}
+
+h2, h3 {
+    color: #c7d6d3; 
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+ul {
+    color: #ffffff; 
+}
+
+li {
+    color: #dcdcdc; 
+}
+
+a {
+    color: #00bcd4; 
+    text-decoration: none;
+}
